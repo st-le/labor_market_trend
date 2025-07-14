@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pytrends
+pandas
+matplotlib
+lxml
